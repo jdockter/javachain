@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="build/libs/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="build/libs/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="build/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="build/libs/google-auth-library-credentials-0.3.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/google-auth-library-oauth2-http-0.3.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/google-http-client-1.19.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/google-http-client-jackson2-1.19.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/grpc-all-0.13.2.jar"/>
+	<classpathentry kind="lib" path="build/libs/grpc-auth-0.13.2.jar"/>
+	<classpathentry kind="lib" path="build/libs/grpc-core-0.13.2.jar"/>
+	<classpathentry kind="lib" path="build/libs/grpc-netty-0.13.2.jar"/>
+	<classpathentry kind="lib" path="build/libs/grpc-okhttp-0.13.2.jar"/>
+	<classpathentry kind="lib" path="build/libs/grpc-protobuf-0.13.2.jar"/>
+	<classpathentry kind="lib" path="build/libs/grpc-protobuf-nano-0.13.2.jar"/>
+	<classpathentry kind="lib" path="build/libs/grpc-stub-0.13.2.jar"/>
+	<classpathentry kind="lib" path="build/libs/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="build/libs/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="build/libs/jackson-core-2.1.3.jar"/>
+	<classpathentry kind="lib" path="build/libs/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/netty-buffer-4.1.0.CR3.jar"/>
+	<classpathentry kind="lib" path="build/libs/netty-codec-4.1.0.CR3.jar"/>
+	<classpathentry kind="lib" path="build/libs/netty-codec-http-4.1.0.CR3.jar"/>
+	<classpathentry kind="lib" path="build/libs/netty-codec-http2-4.1.0.CR3.jar"/>
+	<classpathentry kind="lib" path="build/libs/netty-common-4.1.0.CR3.jar"/>
+	<classpathentry kind="lib" path="build/libs/netty-handler-4.1.0.CR3.jar"/>
+	<classpathentry kind="lib" path="build/libs/netty-resolver-4.1.0.CR3.jar"/>
+	<classpathentry kind="lib" path="build/libs/netty-transport-4.1.0.CR3.jar"/>
+	<classpathentry kind="lib" path="build/libs/okhttp-2.5.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/okio-1.6.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/protobuf-java-3.0.0-beta-2.jar"/>
+	<classpathentry kind="lib" path="build/libs/protobuf-javanano-3.0.0-alpha-5.jar"/>
+	<classpathentry kind="lib" path="build/libs/shim-client-1.0.jar" sourcepath="/fabric-sdk-java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
